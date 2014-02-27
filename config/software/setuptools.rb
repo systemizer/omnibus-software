@@ -16,12 +16,12 @@
 #
 
 name "setuptools"
-version "0.7.7"
+version "2.2"
 
 dependency "python"
 
 source :url => "https://pypi.python.org/packages/source/s/setuptools/setuptools-#{version}.tar.gz",
-       :md5 => '0d7bc0e1a34b70a97e706ef74aa7f37f'
+       :md5 => '04a7664538957b832710653fd7d5b4e6'
 
 relative_path "setuptools-#{version}"
 

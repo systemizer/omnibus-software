@@ -21,7 +21,7 @@ version "1.5"
 dependency "setuptools"
 
 source :url => "https://pypi.python.org/packages/source/p/pip/pip-#{version}.tar.gz",
-       :md5 => '834b2904f92d46aaa333267fb1c922bb'
+       :md5 => '6969b8a8adc4c7f7c5eb1707118f0686'
 
 relative_path "pip-#{version}"
 
